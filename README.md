@@ -50,9 +50,9 @@ Additionally, you'll need to download the spaCy English language model:
 
 ## Steps for Running the Test
 
-## Step1: Rrun ```Blys Assignment Sachin Kafle.ipynb``` file for model creation Otherwise download the trained one in the github
-## Step2: Run ``` python api.py``` for running flask app
-## Step3: Run ```Blys Calling the API.ipynb``` for inference (output)
+ Step1: Run ```Blys Assignment Sachin Kafle.ipynb``` file for model creation Otherwise download the trained one in the github
+ Step2: Run ``` python api.py``` for running flask app
+ Step3: Run ```Blys Calling the API.ipynb``` for inference (output)
 
 ## Project Structure
 
