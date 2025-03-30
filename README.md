@@ -27,7 +27,7 @@ This project provides a comprehensive analysis of customer behavior and implemen
 ## Requirements
 
 To run this project, you'll need the following Python packages:
-
+```
 flask==2.2.2
 joblib==1.2.0
 matplotlib==3.7.1
@@ -36,7 +36,9 @@ pandas==1.5.3
 scikit-learn==1.2.2
 spacy==3.8.4
 textblob==0.19.0
+```
 
+## Installation
 To install them: 
 ``` pip install requirements.txt   ```
 
@@ -46,6 +48,11 @@ Additionally, you'll need to download the spaCy English language model:
 
 ``` python -m spacy download en_core_web_sm ```
 
+## Steps for Running the Test
+
+## Step1: Rrun ```Blys Assignment Sachin Kafle.ipynb``` file for model creation Otherwise download the trained one in the github
+## Step2: Run ``` python api.py``` for running flask app
+## Step3: Run ```Blys Calling the API.ipynb``` for inference (output)
 
 ## Project Structure
 
